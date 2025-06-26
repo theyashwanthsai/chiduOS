@@ -1,6 +1,7 @@
 # OS-2
 A hobby operating system built in C for learning and experimentation 
 
+![os2](./assets/os2.png)
 
 Previously, I worked on OS-1, which was a simple kernel written in asm. It was running in 16 bit real mode.
 
